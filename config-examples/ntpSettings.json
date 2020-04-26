@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "server": "time.google.com",
+  "tz_label": "Asia/Barnaul",
+  "tz_format": "<+07>-7"
+}

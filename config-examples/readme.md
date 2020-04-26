@@ -1,0 +1,1 @@
+Copy files to `data\config` folder and fill your secrets.

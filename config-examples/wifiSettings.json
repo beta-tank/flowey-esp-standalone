@@ -1,6 +1,6 @@
 {
   "ssid": "",
   "password": "password",
-  "hostname": "esp8266-react",
+  "hostname": "esp-8266",
   "static_ip_config": false
 }
